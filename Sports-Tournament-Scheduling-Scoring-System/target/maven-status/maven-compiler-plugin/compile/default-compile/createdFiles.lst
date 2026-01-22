@@ -1,8 +1,0 @@
-com\MohdTauseefKhan\main\Application.class
-com\MohdTauseefKhan\main\Repositories\TournamentRepository.class
-com\MohdTauseefKhan\main\Services\ScheduleService.class
-com\MohdTauseefKhan\main\Services\TournamentService.class
-com\MohdTauseefKhan\main\controllers\ScheduleController.class
-com\MohdTauseefKhan\main\config\JdbcConfig.class
-com\MohdTauseefKhan\main\controllers\TeamController.class
-com\MohdTauseefKhan\main\controllers\TournamentController.class
